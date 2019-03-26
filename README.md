@@ -13,13 +13,13 @@
   <li>Noodle Soup</li>
 </ul>
  <h2> Achievements</h2>
- <p>Progress in this course(100 &permil) <progress value="100" max="100">
+ <p>Progress in this course( 100 &permil ) <progress value="100" max="100">
 </progress>
 </p>
-<p>Progress in the Specialization capstone &lpar 20 &permil &rpar <progress value="20" max="100">
+<p>Progress in the Specialization capstone ( 20 &permil ) <progress value="20" max="100">
 </progress>
 </p>
-<p>Progress in life goal &lpar 67 &permil &rpar <progress value="67" max="100">
+<p>Progress in life goal ( 67 &permil ) <progress value="67" max="100">
 </progress>
 </p>
 <h2> More About Me</h2>
