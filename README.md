@@ -1,4 +1,3 @@
-# John-Snow-GOT
 <!DOCTYPE html>
 <html lang = "en">
 <head>
@@ -6,7 +5,6 @@
  <title> John Snow GOT</title>
 </head>
 <body>
- <h1> John Snow GOT</h1>
  <h2> Favorite Foods</h2>
  <ul>
   <li>Winter Berry</li>
