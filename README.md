@@ -2,7 +2,7 @@
 <html lang = "en">
 <head>
  <meta charset = "UTF-8">
- <h1> John Snow GOT<//h1>
+ <h1> John Snow GOT</h1>
 </head>
 <body>
  <h2> Favorite Foods</h2>
