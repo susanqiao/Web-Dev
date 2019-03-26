@@ -27,7 +27,7 @@
 <br>
 I grew up in a coastal city in China. My hometown is called Sunshine, which is famous for blue sky, clean sea and golden beaches.</p>
 <br>
-<img src=".jpg" width ="25%" alt="WE4E Logo">
+<img src="http://www.intro-webdesign.com/images/newlogo.png" width ="25%" alt="WE4E Logo">
 This page was created by Susan Qiao &38 Colleen van Lent. To learn more about web design, visit <a href = "https://www.coursera.org/specializations/web-design">
 Intro to Web Design.
 </a>
